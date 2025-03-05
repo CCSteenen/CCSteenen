@@ -2,7 +2,7 @@
 
 I work at the intersection of **data integrity and analytics**, ensuring compliance-driven data management in a hospital setting while delivering scalable BI solutions as a freelancer.  
 
-With a background in **Innovation Sciences**, I combine structured methodologies with flexible, insight-driven problem-solving.  
+With a background in **Health Innovation Sciences**, I combine structured methodologies with flexible, insight-driven problem-solving.  
 
 My expertise includes **Power BI, SQL, Python, and R**, with experience in **developing and testing data pipelines within Django frameworks**. I focus on **automated reporting, secure BI integration, and infrastructure optimization** in high-compliance environments.  
 
