@@ -1,13 +1,41 @@
-- 👋 Hey there, I’m @CCSteenen
-- 👀 I’m a data professional balancing two worlds: hospital data integrity by day, freelance BI and analytics by night.
-      My background in Innovation Sciences shapes how I tackle complex problems—mixing compliance-driven rigor with
-      fast-paced, creative solutions.
-      I’m well-versed in R, SQL, Power BI, Python, unit testing in Django, and a range of emerging data tools.
-      No repos here yet, but stay tuned. I’ll be sharing projects that combine healthcare-grade standards with flexible,
-      cutting-edge insights. In the meantime, feel free to reach out—I’m always happy to discuss new ideas or collaborate
-      on data-driven challenges.
-- 🌱 I’m currently learning advanced data wrangling for healthcare analytics, with a focus on integrating secure BI
-      solutions into fast-paced environments.
-- 💞️ I’m looking to collaborate on compliance-focused data projects, building robust pipelines and insightful
-      dashboards that drive real-world impact.
-- 📫 How to reach me ... steenen@gmail.com
+### About Me  
+
+I work at the intersection of **data integrity and analytics**,  
+ensuring compliance-driven data management in a hospital setting  
+while delivering scalable BI solutions as a freelancer.  
+
+With a background in **Innovation Sciences**, I combine structured methodologies  
+with flexible, insight-driven problem-solving.  
+
+My expertise includes **Power BI, SQL, Python, and R**,  
+with experience in **developing and testing data pipelines within Django frameworks**.  
+
+I focus on **automated reporting, secure BI integration, and infrastructure optimization**  
+in high-compliance environments.  
+
+Projects will be shared here soon, showcasing solutions that merge  
+**healthcare-grade standards with advanced analytics**.  
+
+---
+
+### Current Focus  
+
+Currently expanding my expertise in **secure BI solutions for healthcare analytics**,  
+particularly in **scalable infrastructure, automated reporting,  
+and compliance-driven data workflows**.  
+
+---
+
+### Open to Collaboration  
+
+I am interested in working on **compliance-focused data solutions**,  
+from **efficient ETL pipelines** to **insightful dashboards**  
+that drive decision-making.  
+
+---
+
+### Contact  
+
+Feel free to reach out at **steenen@gmail.com**  
+to discuss projects, exchange ideas,  
+or collaborate on data-driven challenges.  
